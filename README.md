@@ -1,6 +1,3 @@
-# montymc
-Monty Hall Monte Carlo simulation
-
 ### This is a brute force monte carlo simulation to validate the solution to the Monty Hall problem
 
 ### VARIABLES ###
